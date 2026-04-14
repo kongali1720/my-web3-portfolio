@@ -9,6 +9,18 @@
   <img src="https://img.shields.io/github/last-commit/kongali1720/my-web3-portfolio?color=00ff88&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://kongali1720.github.io/my-web3-portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=ACCESS+LIVE+PORTFOLIO;CONNECTING+TO+MAINNET...;KONGALI1720+WEB3+v1.0.4" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kongali1720.github.io/my-web3-portfolio/">
+    <b>🚀 VISIT LIVE TERMINAL 🚀</b>
+  </a>
+</p>
+
 ---
 
 ## 💻 Overview
